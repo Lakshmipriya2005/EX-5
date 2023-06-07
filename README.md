@@ -2,7 +2,7 @@
 
 # EXP: 5
 
-# DATE:05-04-2023
+# DATE:
 
 # AIM:
 To write a python program for implementing  Reverse Address Resolution Protocol(RARP).
